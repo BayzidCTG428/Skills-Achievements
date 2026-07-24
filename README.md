@@ -2,12 +2,12 @@
 
 # Professional Certifications & Badges
 
-##Bangladesh University of Business and Technology
+## Bangladesh University of Business and Technology
 - Certificate
 - Issued by: BUBT
 - Date Earned: June 2024
 - #
-- - Certificate
+- Certificate
 - Issued by: BUBT
 - Date Earned: June 2024
 - 
