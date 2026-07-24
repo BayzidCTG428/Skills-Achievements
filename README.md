@@ -7,7 +7,7 @@
 - Issued by: BUBT
 - Date Earned: June 2024
 - #
-- Certificate
+- Marksheet
 - Issued by: BUBT
 - Date Earned: June 2024
 - 
