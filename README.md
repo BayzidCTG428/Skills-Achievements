@@ -24,7 +24,7 @@
 - Issued by: Notion Academy
 - Date Earned: July 2026
 -
-- ##Coders Trust Global
+## Coders Trust Global
 - Responsive Web Design
 - Issued by: Coders Trust Bangladesh
 - Date Earned: September 2021
